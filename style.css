@@ -1,4 +1,7 @@
 img.glogo {
+		display: block;
 		height: 30%;
 		width: 30%;
+		margin-left: auto;
+		margin-right: auto;
 }
