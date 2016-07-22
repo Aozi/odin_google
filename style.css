@@ -1,8 +1,13 @@
-div.main img input {
+div.main img {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
 		padding-top: 150px;
+}
+
+input.inField {
+	margin-left: auto;
+	margin-right: auto;	
 }
 
 img.glogo {
