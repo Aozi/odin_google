@@ -5,10 +5,6 @@ div.main img {
 		padding-top: 150px;
 }
 
-input.inField {
-
-}
-
 .glogo {
 	vertical-align: center;
 display: block;
@@ -16,4 +12,8 @@ display: block;
 	margin-right: auto; 
 	height: 30%;
 	width: 30%;
+}
+
+.search-elements {
+	vertical-align: center;
 }
